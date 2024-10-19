@@ -19,7 +19,7 @@ This is a **Discord-like** webpage that shows:
 ## 🌐 Website Demo
 
 A demo version of this website can be found on GitHub Pages:
-[Tom's Discord Bot Showcase](https://durchdacht.github.io/discord-bot-website/)
+[Tom's Discord Bot Showcase](https://tom.fld.wtf/)
 
 ## 📋 Commands Demonstrated on the Website
 
