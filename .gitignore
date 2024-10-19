@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive PHP files (e.g., with credentials)
+.env
+*.log
+*.cache
+
+# Ignore common node_modules or vendor directories
+node_modules/
+vendor/
