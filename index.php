@@ -8,7 +8,7 @@ $userAvatar = "https://fld.wtf/img/6713b11189e74.png";
 $botName = "Tom";
 $botColor = "#6A0DAD"; 
 $botAvatar = "https://fld.wtf/img/6713a513e987d.png"; 
-$botTagBackgroundColor = "#3ba55d"; 
+$botTagBackgroundColor = "#5865f2"; 
 
 // Banner
 $bannerURL = "https://fld.wtf/img/6713a71c5d6a8.jpg"; 
