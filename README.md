@@ -16,16 +16,6 @@ This is a **Discord-like** webpage that shows:
 - **Command Showcase**: Displays detailed command usage, including descriptions and expected results.
 - **Discord Styling**: Uses a Discord-like interface so potential users can easily understand the interaction.
 
-## 📋 Commands Demonstrated on the Website
-
-### Message Commands
-- **!hello** - Tom sends a personalized greeting.
-- **!help** - Tom provides a list of commands available.
-- **!ping** - Simple latency check, Tom replies with "Pong!".
-
-### Slash Commands
-- **/serverinfo** - Shows detailed information about the server.
-
 ## 🎨 Visual Preview
 The website offers a visual representation of Tom's interaction capabilities:
 
