@@ -16,11 +16,6 @@ This is a **Discord-like** webpage that shows:
 - **Command Showcase**: Displays detailed command usage, including descriptions and expected results.
 - **Discord Styling**: Uses a Discord-like interface so potential users can easily understand the interaction.
 
-## 🌐 Website Demo
-
-A demo version of this website can be found on GitHub Pages:
-[Tom's Discord Bot Showcase](https://tom.fld.wtf/github.php)
-
 ## 📋 Commands Demonstrated on the Website
 
 ### Message Commands
